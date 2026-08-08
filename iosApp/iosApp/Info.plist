@@ -4,5 +4,7 @@
 <dict>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>ShowCat necesita acceso para guardar la foto del gato en tu galería.</string>
 </dict>
 </plist>
